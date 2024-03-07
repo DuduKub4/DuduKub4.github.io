@@ -12,7 +12,7 @@ $(document).ready(function(){
 
 
         $.ajax({
-            url: 'viacep.com.br/ws/'+cep+'/json/',
+            url: 'https://viacep.com.br/ws/'+cep+'/json/',
             type: 'GET',
             dataJson: 'json',
             success: function(data){
