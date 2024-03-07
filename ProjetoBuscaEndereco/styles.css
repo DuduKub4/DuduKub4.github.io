@@ -1,4 +1,4 @@
-body{
+body {
     margin: 0;
     display: flex;
     align-items: center;
@@ -6,13 +6,26 @@ body{
     height: 100vh;
     background-color: #cfd7df;
     color: rgb(255, 255, 255);
-
 }
 
-.container{
+.container {
     text-align: center;
     background-color: rgb(85, 0, 255);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0px 0px 10px #000000;
+    margin: 20px;
+}
+
+#consultar {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
 }

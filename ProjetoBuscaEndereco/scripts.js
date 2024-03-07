@@ -14,7 +14,7 @@ $(document).ready(function(){
         $.ajax({
             url: 'https://viacep.com.br/ws/'+cep+'/json/',
             type: 'GET',
-            dataJson: 'json',
+            dataType: 'json',
             success: function(data){
                 console.log(data);
             }
