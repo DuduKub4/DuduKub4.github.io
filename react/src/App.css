@@ -1,4 +1,6 @@
 body {
-  text-align: center;
+	text-align: center;
 }
-.modoEs
+.modo-escuro {
+	background-color: rgb(60, 60, 60);
+}
