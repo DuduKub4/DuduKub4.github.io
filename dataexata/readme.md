@@ -1,5 +1,5 @@
 Site de Exibição de Data e Hora - Data Exata
-Este é um simples site hospedado em dataexata.netlify.app que exibe a data e hora atual, ajustada para o fuso horário de Brasília. Ele foi desenvolvido usando HTML, CSS e JavaScript, e atende às normas de acessibilidade.
+Este é um simples site que exibe a data e hora atual, ajustada para o fuso horário de Brasília.
 
 Funcionalidades:
 Exibe a data e hora atual em tempo real.
