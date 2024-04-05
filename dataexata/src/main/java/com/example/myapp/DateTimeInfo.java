@@ -4,7 +4,7 @@ public class DateTimeInfo {
     private String date;
     private String time;
 
-    // Getters e setters
+    // Getters and setters
     public String getDate() {
         return date;
     }
