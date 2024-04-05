@@ -14,7 +14,7 @@ import java.time.format.DateTimeFormatter;
 public class DataExataApplication {
 
     @GetMapping("/api/datetime")
-    public String getDateTime() {
+    public DateTimeInfo getDateTime() {
         // Obtém a data e hora atual em Brasília
         LocalDateTime dateTime = LocalDateTime.now(ZoneId.of("America/Sao_Paulo"));
 
@@ -22,10 +22,16 @@ public class DataExataApplication {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");
         String formattedDateTime = dateTime.format(formatter);
 
-        return "Data e hora de Brasília: " + formattedDateTime;
+        // Criar objeto DateTimeInfo
+        DateTimeInfo dateTimeInfo = new DateTimeInfo();
+        dateTimeInfo.setDate(formattedDateTime);
+
+        return dateTimeInfo;
     }
 
     public static void main(String[] args) {
         SpringApplication.run(DataExataApplication.class, args);
+        // Exibir informações JSON no console
+        System.out.println("API em execução. Acesse http://localhost:8080/api/datetime para obter a data e hora.");
     }
 }
