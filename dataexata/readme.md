@@ -13,9 +13,10 @@ A página exibirá automaticamente a data e hora atual.
 
 Tecnologias Utilizadas
 HTML5
-CSS3
+CSS
 JavaScript
+Java
+Netlify: plataforma de hospedagem utilizada para hospedar o site.
 
 Autores:
-
 Este site foi desenvolvido por Eduardo Kuba, João Zatta e Leonardo Chiapetti.
