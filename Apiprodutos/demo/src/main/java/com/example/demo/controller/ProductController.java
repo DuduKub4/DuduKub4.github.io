@@ -17,13 +17,13 @@ public class ProductController {
     }
 
     // Método para retornar todos os produtos
-    @GetMapping("/products")
+    @GetMapping("/produtos")
     public List<Product> getProducts() {
         return products;
     }
 
     // Método para retornar um produto pelo ID
-    @GetMapping("/products/{id}")
+    @GetMapping("/produtos/{id}")
     public Product getProductById(@PathVariable String id) {
         // Implemente a lógica para buscar o produto pelo ID
         for (Product product : products) {
