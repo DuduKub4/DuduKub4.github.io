@@ -1,0 +1,122 @@
+[
+  {
+      "id": "1",
+      "nome": "Processador Intel Core i5 10400",
+      "img": "https://img.terabyteshop.com.br/archive/4157291290/processador-intel-core-i5-10gen-04.png",
+      "descricao": "Tecnologia Hyper-Threading Intel® (Tecnologia Intel® HT) oferece dois segmentos de processamento por núcleo físico. Aplicativos altamente segmentados podem fazer trabalhos adicionais paralelamente, concluindo as tarefas mais rapidamente."
+  },
+  {
+      "id": "2",
+      "nome": "Nvidia GeForce RTX3060 12GB",
+      "img": "https://www.kabum.com.br/conteudo/descricao/164854/img/main-pic.png",
+      "descricao": "Tenha um desempenho para seu trabalho e gameplay com a Placa de Vídeo Asus NVIDIA GeForce DUAL RTX 3060 O12G V2 é equipada com uma memória de 12GB GDDR6, Velocidade de Memória de 15 Gbps, e Boost Clock de 1867 MHz em OC e de 1867 MHz no modo Jogo."
+  },
+  {
+      "id": "3",
+      "nome": "Gabinete Gamer RGB KMEX CG-01KB",
+      "img": "https://policompras.com/image/cache/catalog/Produtos/gab-gamer-a-500x500.PNG",
+      "descricao": "Especificações técnicas"
+  },
+  {
+      "id": "4",
+      "nome": "Fonte de Alimentação Corsair CX550",
+      "img": "https://ae01.alicdn.com/kf/Ub98a57c048e3401bbfeb80013a915603p/Fonte-de-alimenta-o-atx-corsair-cx550-550-w-80-bronze.jpg_Q90.jpg_.webp",
+      "descricao": "Especificações Técnicas:"
+  },
+  {
+      "id": "5",
+      "nome": "Memoria Corsair Vengeance 8GB DDR4 2400MHZ Vermelha",
+      "img": "https://hotsite.pichau.com.br/descricao/Corsair/CMK16GX4M2A2400C16R/CMK16GX4M2A2400C16R1.png",
+      "descricao": "O formato DDR4 é otimizado para os sistemas DDR4 mais recentes e oferece freqüências mais altas, maior largura de banda e menor consumo de energia que os módulos DDR3. VENGEANCE Os módulos LPX DDR4 são testados quanto à compatibilidade nos sistemas DDR4 para um desempenho confiável e rápido."
+  },
+  {
+      "id": "6",
+      "nome": "SSD SATA WD Green 480GB",
+      "img": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-green-ssd/gallery/240gb/wd-green-ssd-240gb-right.png.thumb.1280.1280.png",
+      "descricao": "Para desempenho rápido e confiabilidade, os SSDs WD Green aceleram a experiência de computação em seu PC desktop ou laptop."
+  },
+  {
+      "id": "7",
+      "nome": "PLACA MAE ASUS TUF GAMING B550M-PLUS DDR4 SOCKET AM4 CHIPSET AMD B550",
+      "img": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/t/u/tuf-gaming-b550m-plus1.jpg",
+      "descricao": "Com fornecimento de energia atualizado e opções abrangentes de refrigeração para alimentar as CPUs mais recentes AMD Ryzen, além de suporte para memória e armazenamento mais rápidos, a TUF Gaming B550M-Plus é a base perfeita para sua próxima plataforma de batalha de alta contagem de núcleos."
+  },
+  {
+      "id": "8",
+      "nome": "Teclado Mecânico Redragon Kumara K552",
+      "img": "https://images.kabum.com.br/produtos/fotos/93163/93163_2_1523620161_p.jpg",
+      "descricao": "Teclado mecânico compacto e durável, com switches Outemu e iluminação LED vermelha."
+  },
+  {
+      "id": "9",
+      "nome": "Mouse Gamer Logitech G502 HERO",
+      "img": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/9/1/910-00555021210.jpg",
+      "descricao": "Mouse gamer de alto desempenho com sensor HERO, 11 botões programáveis e peso ajustável."
+  },
+  {
+      "id": "10",
+      "nome": "Monitor Gamer Acer Predator XB271HU",
+      "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/530306/Usado-Monitor-Gamer-Acer-Predator-Xb271hu-Preto-Tela-27-Polegadas_1708601300_p.jpg",
+      "descricao": "Monitor gamer de alta qualidade com resolução 1440p, taxa de atualização de 144Hz e tecnologia G-Sync."
+  },
+  {
+      "id": "11",
+      "nome": "Headset HyperX Cloud Alpha",
+      "img": "https://m.media-amazon.com/images/I/61i+QbshAFL._AC_SX522_.jpg",
+      "descricao": "Headset com drivers de 50mm, estrutura em alumínio resistente, microfone removível e conforto duradouro."
+  },
+  {
+      "id": "12",
+      "nome": "Cadeira Gamer GTRacer",
+      "img": "https://m.media-amazon.com/images/I/5106wJrh6PL._AC_SX522_.jpg",
+      "descricao": "Cadeira gamer ergonômica com design esportivo, suporte lombar ajustável."
+  },
+  {
+      "id": "13",
+      "nome": "Webcam Logitech C920 HD Pro",
+      "img": "https://m.media-amazon.com/images/I/61szFYY6QPL._AC_SX466_.jpg",
+      "descricao": "Webcam de alta definição com resolução Full HD 1080p, correção automática de luz e dois microfones integrados."
+  },
+  {
+      "id": "14",
+      "nome": "Roteador Wi-Fi TP-Link Archer C6",
+      "img": "https://m.media-amazon.com/images/I/51-A2g8Mo8L._AC_SX466_.jpg",
+      "descricao": "Roteador dual-band com velocidades de até 1200Mbps, quatro antenas externas e tecnologia MU-MIMO."
+  },
+  {
+      "id": "15",
+      "nome": "Impressora Multifuncional HP DeskJet 2776",
+      "img": "https://m.media-amazon.com/images/I/51OY4i1sFEL._AC_SX679_.jpg",
+      "descricao": "Impressora multifuncional com conexão Wi-Fi, impressão frente e verso automática e compatibilidade com cartuchos HP originais."
+  },
+  {
+      "id": "16",
+      "nome": "Caixa de Som Bluetooth JBL Charge 5",
+      "img": "https://m.media-amazon.com/images/I/61qMO3TS2RL._AC_SX522_.jpg",
+      "descricao": "Caixa de som portátil à prova d'água com bateria de até 20 horas de duração e conectividade Bluetooth."
+  },
+  {
+      "id": "17",
+      "nome": "Smartwatch Xiaomi Mi Band 6",
+      "img": "https://m.media-amazon.com/images/I/51p0FK48KpL._AC_SX466_.jpg",
+      "descricao": "Smartwatch com tela AMOLED colorida de 1,56 polegadas, monitoramento de saúde e resistência à água."
+  },
+  {
+      "id": "18",
+      "nome": "Fone de Ouvido Sony WH-1000XM4",
+      "img": "https://m.media-amazon.com/images/I/51DkbWZIg+L._AC_SX450_.jpg",
+      "descricao": "Fone de ouvido Bluetooth com cancelamento de ruído, até 30 horas de bateria e suporte a áudio de alta resolução."
+  },
+  {
+      "id": "19",
+      "nome": "Câmera DSLR Canon EOS Rebel T7",
+      "img": "https://m.media-amazon.com/images/I/81pz06ySqrL._AC_SX679_.jpg",
+      "descricao": "Câmera DSLR com sensor CMOS de 24,1MP, vídeo Full HD e conectividade Wi-Fi e NFC."
+  },
+  {
+      "id": "20",
+      "nome": "Projetor BenQ MH535FHD",
+      "img": "https://m.media-amazon.com/images/I/61HmPXQGmeL._AC_SX679_.jpg",
+      "descricao": "Projetor Full HD com brilho de 3600 lumens, alto-falante integrado e conectividade HDMI."
+  }
+]
